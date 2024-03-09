@@ -1,0 +1,44 @@
+.rectangle{
+    background-color: #373B53;
+    width:103px;
+    height:100%;
+    position: relative;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.logo{
+    position: relative;
+    z-index: 1;
+}
+
+.logos{
+    position: absolute;
+}
+
+.logo-shaped{
+    position: absolute;
+    top:0;
+    z-index: 1;
+    top:33.29px;
+    left:32px;
+    right: 31px;
+    bottom:32px;
+}
+
+
+.moon{
+    z-index: 1;
+    position: absolute;
+    bottom:121.1px;
+    left: 41px;
+    right: 42.01px;
+}
+
+.profile{
+    z-index: 1;
+    position: absolute;
+    bottom:24px;
+    left:31px;
+    right: 32px;
+
+}

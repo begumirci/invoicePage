@@ -1,0 +1,96 @@
+.view-back{
+    display: flex;
+    gap:23.66px;
+    margin-bottom:31px;
+    align-items: center;
+}
+
+.table-left{
+    display: flex;
+    gap:20px;
+    align-items: center;
+}
+
+.table-right{
+    display: flex;
+    gap:8px;
+}
+
+.m7{
+    margin-top:7px;
+    margin-bottom:48px;
+}
+
+.table-content-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table-content{
+    padding-top:50px;
+    padding-left:48px;
+    padding-right: 48px;
+    margin-top:24px;
+    box-shadow: 0px 10px 10px -10px rgba(72, 84, 159, 0.10);
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-flex-column{
+    display: flex;
+    flex-direction: column;
+    gap:13px;
+}
+
+.content-flex-row{
+    display: flex;
+    gap:117px;
+    align-items: center;
+}
+
+.m31{
+    align-items: end;
+}
+
+.table-content-rectangle{
+   
+}
+
+.rectangle-yatay{
+    background-color: #F9FAFE;
+    border-radius: 8px 8px 0px 0px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 33px;
+    margin-top:44px;
+
+}
+
+.ulgap{
+    justify-content: space-between;
+}
+
+.table-content-rectangle{
+    display: flex;
+    flex-direction: column;
+    gap:32px;
+    justify-content: center;
+}
+
+.table-total-price{
+   background-color: #373B53;
+   padding-top:32px;
+   padding-bottom:32px;
+   border-radius:0px 0px 8px 8px;
+   padding-right: 32px;
+   padding-left:32px;
+   color:#fff;
+   display: flex;
+   justify-content: space-between;
+}
+
+.m39:last-child{
+    margin-bottom:39px;
+}
